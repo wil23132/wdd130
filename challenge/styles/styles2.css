@@ -1,0 +1,10 @@
+body {
+    max-width: 1600px;
+    background-color: grey;
+}
+.desk {
+    border-radius: 50%;
+    width: 300px;
+    border-color: rgb(43, 38, 38);
+    margin: 65px;
+}
