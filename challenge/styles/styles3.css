@@ -1,10 +1,25 @@
 body {
-    background-color: grey;
-    grid: 2em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    max-width:80%;
+    margin-top:0px;
 }
 h1 {
-    font-size: 3em;
+    font-size: 11em;
+    position: absolute;
+    left: 300px;
+    text-align: center;
+    font-stretch: expanded;
 }
 h2 {
-    font-size: 1.5em;
+    font-size: 4em;
+    grid-column:2/3;
+    color: rgb(122, 17, 17);
+    position: relative;
+    top:585px;
+}
+div {
+    grid-column:2/3;
+    background-color: grey;
+    width: 1fr;
 }
