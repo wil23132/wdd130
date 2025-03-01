@@ -6,7 +6,7 @@ Fonts are separated by a | */
 .lora {
     font-family: "Lora", serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: weight;
     font-style: normal;
   }
 .bebas-neue-regular {
