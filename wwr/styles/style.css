@@ -185,15 +185,19 @@ main section img {
     align-items: center;
     column-gap: 30px;
     grid-template-rows: 1 fr 1fr;
+    margin-left: 50px;
 }
 .titles {
     font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(10, 0, 36);
 }
 #quote {
     font-size: 3em;
     text-align: center;
     width: 80%;
     justify: space-around;
+    margin-top: 75px;
 }
 .info {
     width: 50%;
@@ -203,10 +207,13 @@ main section img {
     width:400px;
     grid-column: 1/2;
     grid-row: 2/3;
-
+    border:rgb(10, 0, 36)
+    border-width: 15px;
 }
 #where {
     width: 400px;
+    border:rgb(10, 0, 36);
+    border-width: 15px;
 }
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
