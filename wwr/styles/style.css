@@ -15,10 +15,7 @@ h2 {
 }
 nav a {
     text-align: center;
-    color: white;
-    text-decoration: none;
-    padding: 35px;
-    font-family:'Roboto' sans-serif;
+    background-color: white;
 }
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
