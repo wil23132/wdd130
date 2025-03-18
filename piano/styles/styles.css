@@ -12,6 +12,7 @@ body {
     display: grid;
     background-color: #dad7cd;
     padding: 75px;
+    max-width: 1600px;
 }
 .bebas-neue-regular {
     font-family: "Bebas Neue", serif;
