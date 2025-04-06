@@ -289,3 +289,19 @@ input[type=text]:focus, input[type=password]:focus {
     width: 200px;
     padding: 100px;
 }
+#current {
+  background-color: #3a5a40;
+}
+#schedule {
+  width: 1500px;
+  margin-left: 125px;
+}
+#venmo {
+  margin-left: 28%;
+  padding: 60px;
+}
+.footerc {
+  color: #fff;
+  justify-items: space-around;
+  padding: 100px;
+}
